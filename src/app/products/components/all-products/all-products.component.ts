@@ -1,6 +1,5 @@
 import { Product } from './../../models/Product';
 import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
 import Swal from 'sweetalert2';
 import { ProductsService } from '../../services/products.service';
 
